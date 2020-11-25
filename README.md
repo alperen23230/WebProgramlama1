@@ -29,7 +29,7 @@ Tasarlayan: **Alperen ÜNAL**
 
 # Kullanılan Yöntemler
 
- 1. CI/CD (Zeit)
+ 1. CI/CD (Vercel)
  2. React Hooks
 
 

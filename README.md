@@ -29,5 +29,7 @@ Tasarlayan: **Alperen ÜNAL**
 
 # Kullanılan Yöntemler
 
- 1. React Hooks
+ 1. CI/CD (Zeit)
+ 2. React Hooks
+
 
